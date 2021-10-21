@@ -16,7 +16,7 @@ Given File Data:
 * sample_submission.csv - The correct format for submissions.
 
 File In This Repository:
-* m5-accuracy-crisp-dm.ipynb - Contains all my Introduction, Problem Definition, EDA, Preprocessing, Feature Engineering, Modeling, Model Evaluate.
+* m5-accuracy-crisp-dm.ipynb - Contains all my Introduction, Problem Statement, EDA Process, Preprocessing, Feature Engineering, Modeling, Model Evaluation.
 
 Features:
 1. Lagged Features
